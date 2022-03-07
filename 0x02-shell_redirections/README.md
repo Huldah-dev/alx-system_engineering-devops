@@ -1,1 +1,1 @@
-Script that creates a new file and ending by a new line
+Script that prints Hello world followed by a newline to the standard output

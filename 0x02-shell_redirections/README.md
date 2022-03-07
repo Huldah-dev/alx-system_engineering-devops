@@ -1,1 +1,1 @@
-Display all lines of the file starting with a letter
+Delete all file that are present with a .js extension

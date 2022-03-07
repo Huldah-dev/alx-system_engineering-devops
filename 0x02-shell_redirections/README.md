@@ -1,1 +1,1 @@
-script that creates a file containin the text best school ending by a new line
+Display all lines of the file starting with a letter

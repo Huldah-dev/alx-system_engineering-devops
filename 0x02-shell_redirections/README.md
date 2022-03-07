@@ -1,1 +1,2 @@
- Script that creates a file with the name given and contains the name best school ending by a new line
+Duplicate the last line of the file iacta
+

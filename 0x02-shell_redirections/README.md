@@ -1,2 +1,1 @@
-Duplicate the last line of the file iacta
-
+ script that count the number of directories and sub-directories

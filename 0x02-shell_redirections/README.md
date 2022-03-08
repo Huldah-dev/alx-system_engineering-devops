@@ -1,1 +1,1 @@
- script that count the number of directories and sub-directories
+Scripts that prints all files with .gif extension

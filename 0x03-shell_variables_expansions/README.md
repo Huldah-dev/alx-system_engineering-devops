@@ -1,1 +1,1 @@
-Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
+Script that changes binary to decimal

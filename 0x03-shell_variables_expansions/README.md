@@ -1,1 +1,1 @@
-Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
+Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
